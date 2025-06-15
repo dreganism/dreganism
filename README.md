@@ -17,7 +17,7 @@ Some lessons unfold as you journey through your environment, revealing insights 
 > — T. S. Eliot  
 
 ## 📫 Let's Connect  
-Feel free to reach out: **dreganism2@gmail.com**
+Feel free to reach out: **dregan@raptorcybersecurity.com**
 
 <!---
 dreganism/dreganism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
